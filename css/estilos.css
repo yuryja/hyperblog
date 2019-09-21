@@ -1,5 +1,9 @@
 body{
+<<<<<<< HEAD
     color: blue;
+=======
+    color: red;
+>>>>>>> cabecera
     font-family: "Arial";
     text-align: center;
 }
